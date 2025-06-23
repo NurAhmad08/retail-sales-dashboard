@@ -16,7 +16,7 @@ This project presents a retail sales dashboard built entirely in **Microsoft Exc
 - Python (for data simulation and automation)
 
 ## 📸 Preview
-![Dashboard Preview](visuals/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## 📈 Key Insights
 - Highest sales in **East Region**
